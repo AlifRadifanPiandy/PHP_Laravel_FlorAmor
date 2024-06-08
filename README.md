@@ -1,4 +1,4 @@
-# Please Read First Before Running!!!
+# PHP_Laravel_FlorAmor
 
 This is a Laravel project for flower store "FlorAmor".
 

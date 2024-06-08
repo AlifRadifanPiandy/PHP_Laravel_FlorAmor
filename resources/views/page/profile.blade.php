@@ -24,12 +24,6 @@
                         <input type="email" class="form-control p-2" id="email" value="{{ $user->email }}"
                             style="background-color: #EAEAEA;box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" readonly>
                     </div>
-                    <div class="mb-3">
-                        <label for="password" class="form-label"
-                            style="font-family: 'Arial Rounded MT Bold', sans-serif;font-weight: bold;">Password</label>
-                        <input type="password" class="form-control p-2" id="password" value="{{ $user->password }}"
-                            style="background-color: #EAEAEA;box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);" readonly>
-                    </div>
                 </form>
             </div>
         </div>
